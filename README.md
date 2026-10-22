@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 10 Solved
+## Progress Summary: 11 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,3 +16,4 @@
 | minimum-operations-to-sort-a-permutation | Minimum Operations to Sort a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Solution](./solutions/Medium/3942-minimum-operations-to-sort-a-permutation/solution.java) |
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
+| summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
