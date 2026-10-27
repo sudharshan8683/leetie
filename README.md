@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 33 Solved
+## Progress Summary: 34 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | implement-queue-using-stacks | Implement Queue using Stacks | Easy | java | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.java) |
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | increasing-triplet-subsequence | Increasing Triplet Subsequence | Medium | java | [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](./solutions/Medium/0334-increasing-triplet-subsequence/solution.java) |
+| integer-break | Integer Break | Medium | java | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.java) |
 | invert-binary-tree | Invert Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./solutions/Easy/0226-invert-binary-tree/solution.java) |
 | kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | java | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.java) |
