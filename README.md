@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 25 Solved
+## Progress Summary: 26 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | patching-array | Patching Array | Hard | java | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.java) |
 | power-of-three | Power of Three | Easy | java | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.java) |
 | power-of-two | Power of Two | Easy | java | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.java) |
+| reconstruct-itinerary | Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
 | summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
