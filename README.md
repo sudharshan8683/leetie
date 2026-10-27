@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 46 Solved
+## Progress Summary: 47 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | intersection-of-two-arrays-ii | Intersection of Two Arrays II | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.java) |
 | invert-binary-tree | Invert Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./solutions/Easy/0226-invert-binary-tree/solution.java) |
 | kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
+| largest-divisible-subset | Largest Divisible Subset | Medium | java | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.java) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | java | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.java) |
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | java | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.java) |
