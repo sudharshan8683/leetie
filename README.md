@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 62 Solved
+## Progress Summary: 63 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | java | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.java) |
 | design-twitter | Design Twitter | Medium | java | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.java) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
+| find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | java | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.java) |
 | flatten-nested-list-iterator | Flatten Nested List Iterator | Medium | java | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.java) |
 | house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | implement-queue-using-stacks | Implement Queue using Stacks | Easy | java | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.java) |
