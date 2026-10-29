@@ -1,0 +1,30 @@
+// ──────────────────────────────────────────────────
+// Problem  : 387. First Unique Character in a String
+// Difficulty: Easy
+// Tags     : Hash Table, String, Queue, Counting
+// Link     : https://leetcode.com/problems/first-unique-character-in-a-string/
+// Runtime  : 6 ms (beats 87%)
+// Memory   : 46760000 (beats 75%)
+// Language : java
+// Copyright: (c) 2026 sudharshan8683. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+
+class Solution {
+    public int firstUniqChar(String s) {
+        int[] count = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+        }
+
+        for (int i = 0; i < s.length(); i++) {
+            if (count[s.charAt(i) - 'a'] == 1) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
