@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 77 Solved
+## Progress Summary: 78 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,6 +42,7 @@
 | largest-divisible-subset | Largest Divisible Subset | Medium | java | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.java) |
 | lexicographical-numbers | Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
 | linked-list-random-node | Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
+| longest-absolute-file-path | Longest Absolute File Path | Medium | java | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.java) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | java | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.java) |
 | lowest-common-ancestor-of-a-binary-search-tree | Lowest Common Ancestor of a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) |
 | lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
