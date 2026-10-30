@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 125 Solved
+## Progress Summary: 126 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -59,6 +59,7 @@
 | intersection-of-two-arrays-ii | Intersection of Two Arrays II | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.java) |
 | invert-binary-tree | Invert Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./solutions/Easy/0226-invert-binary-tree/solution.java) |
 | is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
+| island-perimeter | Island Perimeter | Easy | java | [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution](./solutions/Easy/0463-island-perimeter/solution.java) |
 | k-th-smallest-in-lexicographical-order | K-th Smallest in Lexicographical Order | Hard | java | [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Solution](./solutions/Hard/0440-k-th-smallest-in-lexicographical-order/solution.java) |
 | kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
 | kth-smallest-element-in-a-sorted-matrix | Kth Smallest Element in a Sorted Matrix | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./solutions/Medium/0378-kth-smallest-element-in-a-sorted-matrix/solution.java) |
