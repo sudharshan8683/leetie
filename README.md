@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 116 Solved
+## Progress Summary: 117 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 4sum-ii | 4Sum II | Medium | java | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.java) |
 | add-strings | Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
 | add-two-numbers-ii | Add Two Numbers II | Medium | java | [Problem](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./solutions/Medium/0445-add-two-numbers-ii/solution.java) |
 | all-oone-data-structure | All O`one Data Structure | Hard | java | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.java) |
